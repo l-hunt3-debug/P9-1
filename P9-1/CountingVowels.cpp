@@ -6,10 +6,6 @@
 * Description: Count number of vowels in a string.
 */
 
-#include <iomanip>
-#include <iostream>
-#include <string>
-
 
 #include <iostream>
 #include <string>
